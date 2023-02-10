@@ -12,8 +12,8 @@ https://github.com/twentiecker/workq-rabbitmq-python.git
 
 ## Demo Aplikasi
 
-Aplikasi ini menghasilkan dua aplikasi, yaitu worker.exe dan tasker.exe. Tasker berperan sebagai pengirim pesan
-sedangkan Worker berperan sebagai penerima pesan. Aplikasi demo berada pada folder <code>dist/</code>.
+Aplikasi ini menghasilkan dua aplikasi, yaitu worker.exe dan tasker (tasker_win dan tasker_con.exe). Tasker berperan sebagai pengirim pesan
+sedangkan Worker berperan sebagai penerima pesan. Terdapat dua jenis aplikasi tasker yang sudah disediakan sebagai demo aplikasi, yaitu tasker_win (windows UI) dan tasker_con.exe (console UI). Aplikasi demo berada pada folder <code>dist/</code>.
 
 ## Setup RabbitMQ libraries
 
