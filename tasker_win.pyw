@@ -55,7 +55,6 @@ def disconnect():
     # properti GUI
     txt_pesan.delete(0, tk.END)
     txt_pesan.config(state="disabled")
-    txt_pesan.config(state="disabled")
     txt_tujuan.delete(0, tk.END)
     txt_tujuan.config(state="disabled")
     txt_list.config(state="normal")
